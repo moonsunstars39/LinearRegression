@@ -1,6 +1,5 @@
 # Projects implementing Linear Regression
 
----
 ## 1.Diamond
 
 使用<strong>R语言</strong>分析钻石各属性如何影响钻石价格，并搭建钻石价格预测模型;
