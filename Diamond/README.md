@@ -9,5 +9,5 @@
 对变量进行<strong>统计分析</strong>，对不同重量的钻石分类建立<strong>回归模型</strong>;
 
 根据<strong>统计方法</strong><em>（p值、R方、残差的分布）</em>对模型进行诊断;
-***
+
 ## 2. 
